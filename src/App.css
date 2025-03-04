@@ -1,0 +1,11 @@
+.app {
+  background-color: #111;
+  color: white;
+  min-height: 100vh;
+  background-image: url('/c:/Users/PC/Documents/GitHub/pictures/logo.jpg'); /* Ensure this path is correct */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
